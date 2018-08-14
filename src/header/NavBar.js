@@ -26,9 +26,10 @@ class NavBar extends Component {
                     onChange={this.handleChange}
                     
                 >
-                <Tab label="Active"  />
-                <Tab label="Disabled" />
-                <Tab label="Active2" />
+                <Tab label="Accueil"  />
+                <Tab label="Photos" />
+                <Tab label="Tarifs" />
+                <Tab label="Contact" />
             </Tabs>
           </Paper>
         );
