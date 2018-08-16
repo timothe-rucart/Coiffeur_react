@@ -1,8 +1,6 @@
-.prestation {
-    margin: 0 20% 3% 20%;
-
+.h1_prestation{
+    text-align: left
 }
-
-p {
-    text-align:justify;
+.button_prestation{
+    float: right;
 }
