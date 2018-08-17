@@ -17,7 +17,7 @@ class Logo extends Component {
                     <Grid className="logo_site" item xs={6}>
                         <img src={LogoCoiffeur} />
                     </Grid>
-                    <Grid className="tel_header" item xs={12} sm={3}>
+                    <Grid className="contact_header" item xs={12} sm={3}>
                         <p>
                             06.06.06.06.06
                         </p>

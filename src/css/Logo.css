@@ -1,8 +1,10 @@
 img {
     height: 130px;    
 }
-
 .header {
     padding: 15px 0 30px 0; 
-    background-color: aliceblue;
+    background-color: #d7f3ff;
+}
+.contact_header {
+    text-align: center;
 }

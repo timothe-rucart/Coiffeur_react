@@ -19,3 +19,32 @@ p{
 .image {
   height: 400px;
 }
+.footer{
+  background-color: #d7f3ff;
+  padding-bottom: 2.5%; 
+}
+.container_reseaux{  
+  margin: 0 30% 0 30%;
+}
+.reseaux{  
+  height: 70px;
+  width: 70px;
+  margin-right: 30px; 
+  margin-top: 30px; 
+  -webkit-border-radius: 30%;
+  -moz-border-radius: 30%;
+  -ms-border-radius: 30%;
+  -o-border-radius: 30%;
+  border-radius: 30%;
+}
+.reseaux:hover{   
+  height: 90px;
+  width: 90px;   
+  margin-top: 20px;  
+  margin-bottom: -10px; 
+
+}
+.h3_footer{
+  text-align: left;
+  margin-left: 20%;
+}
