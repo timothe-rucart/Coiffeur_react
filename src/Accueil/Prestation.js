@@ -7,7 +7,7 @@ import './../css/Prestation.css'
 const Prestation = () => {
     return (
         <div className="container">        
-            <Grid container spacing={0}>
+            <Grid container spacing={24}>
                 <Grid className="container1" item sm={12} md={6}>                    
                     <img className="image" alt="photo d'un modèle coiffure" src={Photo}/>
                 </Grid>

@@ -9,7 +9,7 @@ const Presentation = (props) => {
 
     return (
         <div className="presentation container">            
-            <Grid container spacing={0}>
+            <Grid container spacing={24}>
                 <Grid className="container1" item sm={12} md={6}>
                 <h1 className="h1_presentation">Présentation</h1>
                     <p>

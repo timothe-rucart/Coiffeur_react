@@ -12,7 +12,7 @@ const componentName = () => {
         <div className="produits container">
             <h1>Nos produits, shampoings et soins</h1>
             <Grid container spacing={16}>
-                <Grid item xs={12} sm={4}>
+                <Grid item sm={12} md={4}>
                     <Card>
                         <CardMedia                
                         image={Shampoing}
@@ -31,7 +31,7 @@ const componentName = () => {
                         </CardContent>
                     </Card>
                 </Grid>
-                <Grid item xs={12} sm={4}>
+                <Grid item sm={12} md={4}>
                     <Card>
                         <CardMedia                
                         image={Shampoing2}
@@ -50,7 +50,7 @@ const componentName = () => {
                         </CardContent>
                     </Card>
                 </Grid>
-                <Grid item xs={12} sm={4}>
+                <Grid item sm={12} md={4}>
                     <Card>
                         <CardMedia                
                         image={Shampoing3}
